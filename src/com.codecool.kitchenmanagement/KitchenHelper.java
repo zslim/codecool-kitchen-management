@@ -44,4 +44,8 @@ public class KitchenHelper extends Employee {
         }
     }
 
+    public void yellAllOut() {
+        System.out.println("We're all out!");
+    }
+
 }
